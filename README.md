@@ -83,3 +83,10 @@ Make sure to replace placeholders like `your-username` and `your-repository` wit
 
 
 ![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/b601287a-bc66-42f4-b2bf-f31e3945e02c)
+
+
+# Prepared by
+
+Jeet Ghodasara - jng25899@gmail.com
+
+Manan Patel -
