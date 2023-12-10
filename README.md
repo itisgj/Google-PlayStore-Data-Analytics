@@ -38,3 +38,19 @@ Test results for the machine learning model's performance, including Root Mean S
 
 
 Make sure to replace placeholders like `your-username` and `your-repository` with your actual GitHub username and repository name. Adjust the instructions and details based on the specifics of your project.
+
+
+## Screenshots of Work
+
+# Cluster creation
+![Screenshot 2023-11-29 220144](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/b91dc9a5-b270-4338-9edb-995909ba2039)
+
+# Making a table from csv file
+![Screenshot 2023-11-29 220033](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/0a47209e-40c3-41b0-ad37-be11885380e7)
+
+
+![Screenshot 2023-11-29 204957](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/3aae6629-cdca-4d14-a4c5-94474e9ca51c)
+
+
+
+
