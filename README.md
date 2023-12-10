@@ -52,5 +52,20 @@ Make sure to replace placeholders like `your-username` and `your-repository` wit
 ![Screenshot 2023-11-29 204957](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/3aae6629-cdca-4d14-a4c5-94474e9ca51c)
 
 
+# Creating a Spark session
+![Screenshot 2023-11-29 220400](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/40965ddc-7b73-4078-9970-a5d22c7214cd)
+
+
+# Data Cleaning and Transformation
+![Screenshot 2023-11-29 220627](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/37094e82-25b0-43dc-9731-e0a9fe4919bd)
+
+
+# Installs per Categories
+![Screenshot 2023-11-29 221047](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/6bea357b-d258-4c88-8b6f-a2238c43ddf4)
+
+
+# Number of Reviews and Installs across Categories
+![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/fe3113f1-37d5-457e-9296-4677da7dc742)
+
 
 
