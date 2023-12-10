@@ -89,4 +89,4 @@ Make sure to replace placeholders like `your-username` and `your-repository` wit
 
 Jeet Ghodasara - jng25899@gmail.com
 
-Manan Patel -
+Manan Patel - mananpatel@csu.fullerton.edu
