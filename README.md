@@ -68,5 +68,18 @@ Make sure to replace placeholders like `your-username` and `your-repository` wit
 ![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/0b1d6d32-44e7-4275-8e70-5e33f30c89e3)
 
 
+# Installs vs Price prediction model
+![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/3d0476fc-3d9d-4d99-9e4d-bd1491766a3e)
 
 
+![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/373ef918-c267-4eac-9393-a5509fbf0437)
+
+
+![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/b04b4122-10ba-417b-88bb-10f2e56469fd)
+
+
+# Installs vs Price prediction model (Visualized)
+![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/5049d129-5860-4b29-b458-a84c595fcd28)
+
+
+![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/b601287a-bc66-42f4-b2bf-f31e3945e02c)
