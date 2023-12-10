@@ -19,7 +19,7 @@ For effective computing, the project makes use of Microsoft Azure's Databricks c
 
 ## Deployment Instructions
 
-1. Clone the GitHub repository to your local machine: `git clone https://github.com/itisgj/Google-PlayStore-Data-Analytic.git`
+1. Clone the GitHub repository to your local machine: `git clone https://github.com/itisgj/Google-PlayStore-Data-Analytics.git`
 2. Set up a Microsoft Azure account and create a Databricks cluster.
 3. Open the Jupyter notebook or script containing the project code on Databricks.
 4. Execute the code cells or run the script to perform data analysis and build the machine learning model.
