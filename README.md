@@ -65,7 +65,8 @@ Make sure to replace placeholders like `your-username` and `your-repository` wit
 
 
 # Number of Reviews and Installs across Categories
-![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/fe3113f1-37d5-457e-9296-4677da7dc742)
+![image](https://github.com/itisgj/Google-PlayStore-Data-Analytics/assets/53045468/0b1d6d32-44e7-4275-8e70-5e33f30c89e3)
+
 
 
 
