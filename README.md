@@ -1,1 +1,3 @@
-# Google-PlayStore-Data-Analytics
+# Google PlayStore Data Analytics
+
+## Functionalities
